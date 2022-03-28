@@ -9,13 +9,25 @@ By creating innovative cross-platform applications at BCIT, I could acquire prof
 * HTML5, CSS
 * Next.js
 * React
+* React Native
+* Expo
+* SASS
 * Material-UI
 * JavaScript
 * jQuery
-* mySQL
+* Node.js
+* REST API
 * MongoDB
+* MySQL
+* Docker
 * PHP
 
+### Tools 🔮
+* Figma
+* GitHub
+* Storybook
+* WordPress
+* Adobe Software
 
 ### Contact 💬
 
