@@ -1,6 +1,6 @@
 ## Hi there 👋👋
 
-My name is Hyerin Cheon😊 I am a **Front-End Developer** with knowledge of UX/UI design. My goal is to improve the user's experience through coding and design. I believe that developers' duty is to provide their users with a good user experience by writing good code.
+My name is Rina Cheon😊 I am a **Front-End Developer** with knowledge of UX/UI design. My goal is to improve the user's experience through coding and design. I believe that developers' duty is to provide their users with a good user experience by writing good code.
 
 By creating innovative cross-platform applications at BCIT, I could acquire proficiency in utilizing front-end development tools, such as HTML5, CSS, React, Next.js, and JavaScript.
 
