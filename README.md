@@ -4,23 +4,28 @@ My name is Rina Cheon😊 I am a **Front-End Developer** with knowledge of UX/UI
 
 By creating innovative cross-platform applications at BCIT, I could acquire proficiency in utilizing front-end development tools, such as HTML5, CSS, React, Next.js, and JavaScript.
 
-### Skills 😎
 
-* HTML5, CSS
-* Next.js
+### Language 😎
+
+* HTML5
+* CSS
+* SASS
+* JavaScript
+* TypeScript
+* MySQL
+
+
+### Framework 🖼
 * React
+* Next.js
+* Styled-components
 * React Native
 * Expo
-* SASS
-* Material-UI
-* JavaScript
-* jQuery
-* Node.js
 * REST API
+* jQuery
 * MongoDB
-* MySQL
 * Docker
-* PHP
+
 
 ### Tools 🔮
 * Figma
@@ -28,6 +33,7 @@ By creating innovative cross-platform applications at BCIT, I could acquire prof
 * Storybook
 * WordPress
 * Adobe Software
+
 
 ### Contact 💬
 
