@@ -37,9 +37,9 @@ By creating innovative cross-platform applications at BCIT, I could acquire prof
 
 ### Contact 💬
 
-📧 hlyni22@gmail.com
-🔗 www.hyerincheon.ca
-💼 www.linkedin.com/in/hyerin-cheon
+📧 hlyni22@gmail.com    
+🔗 www.hyerincheon.ca     
+💼 www.linkedin.com/in/hyerin-cheon     
 
 
 
