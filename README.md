@@ -1,45 +1,47 @@
 ## Hi there 👋👋
 
-My name is Rina Cheon😊 I am a **Front-End Developer** with knowledge of UX/UI design. My goal is to improve the user's experience through coding and design. I believe that developers' duty is to provide their users with a good user experience by writing good code.
-
-By creating innovative cross-platform applications at BCIT, I could acquire proficiency in utilizing front-end development tools, such as HTML5, CSS, React, Next.js, and JavaScript.
+My name is Rina Cheon😊
 
 
-### Language 😎
-
+#### Languages 😎
 * HTML5
 * CSS
 * SASS
 * JavaScript
 * TypeScript
-* MySQL
 
-
-### Framework 🖼
+#### Frameworks 🖼
 * React
 * Next.js
-* Styled-components
 * React Native
 * Expo
-* REST API
+
+#### Libraries 📚
+* Styled-components
 * jQuery
+
+#### Databases 🔎
 * MongoDB
-* Docker
+* MySQL
+
+#### Other Knowledge 👓
+* REST API
 
 
-### Tools 🔮
+#### Tools 🔮
 * Figma
-* GitHub
+* GitHub & GitLab
 * Storybook
 * WordPress
 * Adobe Software
+* Docker
 
 
-### Contact 💬
+#### Contact 💬
 
 📧 hlyni22@gmail.com    
 🔗 www.hyerincheon.ca     
-💼 www.linkedin.com/in/hyerin-cheon     
+💼 www.linkedin.com/in/rinaacheon     
 
 
 
